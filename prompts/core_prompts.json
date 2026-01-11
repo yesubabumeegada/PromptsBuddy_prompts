@@ -1,0 +1,27 @@
+{
+    "prompts": [
+        {
+            "id": "img_001",
+            "title": "Cinematic Cyberpunk City",
+            "content": "A futuristic cyberpunk city street at night, [Color] neon lights reflecting on wet pavement, towering skyscrapers with holographic advertisements, dense fog, cinematic lighting, photorealistic, 8k resolution.",
+            "description": "Create stunning cyberpunk environments.",
+            "category": "imageEditing",
+            "level": "basic",
+            "platforms": [
+                "all"
+            ],
+            "exampleOutput": "Image of a neon city"
+        },
+        {
+            "id": "new_fitness_001",
+            "title": "New Year Transformation",
+            "content": "A complete plan for ...",
+            "description": "Just an example of separating files.",
+            "category": "fitness",
+            "level": "basic",
+            "platforms": [
+                "all"
+            ]
+        }
+    ]
+}
