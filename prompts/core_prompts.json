@@ -28,7 +28,8 @@
       "description": "Professional grade portrait prompt.",
       "category": "imageEditing",
       "level": "pro",
-      "platforms": ["all"]
+      "platforms": ["all"],
+      "imageUrl": "images/img_001.png"
     },
     {
       "id": "edu_001",
