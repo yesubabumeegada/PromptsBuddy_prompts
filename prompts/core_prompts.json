@@ -1,27 +1,106 @@
 {
-    "prompts": [
-        {
-            "id": "img_001",
-            "title": "Cinematic Cyberpunk City",
-            "content": "A futuristic cyberpunk city street at night, [Color] neon lights reflecting on wet pavement, towering skyscrapers with holographic advertisements, dense fog, cinematic lighting, photorealistic, 8k resolution.",
-            "description": "Create stunning cyberpunk environments.",
-            "category": "imageEditing",
-            "level": "basic",
-            "platforms": [
-                "all"
-            ],
-            "exampleOutput": "Image of a neon city"
-        },
-        {
-            "id": "new_fitness_001",
-            "title": "New Year Transformation",
-            "content": "A complete plan for ...",
-            "description": "Just an example of separating files.",
-            "category": "fitness",
-            "level": "basic",
-            "platforms": [
-                "all"
-            ]
-        }
-    ]
+  "prompts": [
+    {
+      "id": "img_001",
+      "title": "Cinematic Cyberpunk City",
+      "content": "A futuristic cyberpunk city street at night, [Color] neon lights reflecting on wet pavement, towering skyscrapers with holographic advertisements, dense fog, cinematic lighting, photorealistic, 8k resolution.",
+      "description": "Create stunning cyberpunk environments.",
+      "category": "imageEditing",
+      "level": "basic",
+      "platforms": ["all"],
+      "exampleOutput": "Image of a neon city",
+      "imageUrl": "images/img_001.png"
+    },
+    {
+      "id": "img_002",
+      "title": "30-Day Fat Loss Plan",
+      "content": "Create a 30-day workout plan focused on fat loss for a beginner. Include 3 days of strength training and 2 days of cardio per week. Provide a sample meal plan for one day with a caloric deficit.",
+      "description": "Get a structured fat loss routine.",
+      "category": "fitness",
+      "level": "basic",
+      "platforms": ["chatGPT", "gemini"],
+      "imageUrl": "images/img002.png"
+    },
+    {
+      "id": "img_002_pro",
+      "title": "Hyper-Realistic Portrait Photography",
+      "content": "Close-up portrait of an elderly fisherman, weathered face, deep wrinkles, intense eyes, natural lighting, shot on 85mm lens, f/1.8, bokeh background, ultra-detailed skin texture.",
+      "description": "Professional grade portrait prompt.",
+      "category": "imageEditing",
+      "level": "pro",
+      "platforms": ["all"]
+    },
+    {
+      "id": "edu_001",
+      "title": "Explain Quantum Physics to a 5-Year-Old",
+      "content": "Explain the basic concepts of quantum physics (superposition and entanglement) using simple analogies suitable for a 5-year-old child. Keep it fun and engaging.",
+      "description": "Simplify complex topics.",
+      "category": "education",
+      "level": "basic",
+      "platforms": ["all"]
+    },
+    {
+      "id": "career_001",
+      "title": "Resume Bullet Points",
+      "content": "Generate 5 high-impact resume bullet points for a [Job Role]. Focus on metrics like performance improvement, app store ratings, and delivery speed. Use action verbs.",
+      "description": "Enhance your resume instantly.",
+      "category": "career",
+      "level": "improved",
+      "platforms": ["chatGPT", "gemini", "perplexity"]
+    },
+    {
+      "id": "social_001",
+      "title": "Viral Instagram Reel Hook",
+      "content": "Write 5 catchy hooks for an Instagram Reel about '[Topic]'. The hooks should stop the scroll and create curiosity.",
+      "description": "Boost your engagement.",
+      "category": "socialMedia",
+      "level": "basic",
+      "platforms": ["all"]
+    },
+    {
+      "id": "img_003",
+      "title": "Surreal Floating Island",
+      "content": "A surreal floating island with waterfalls cascading into the void, ancient ruins, bioluminescent flora, dreamlike atmosphere, pastel colors, digital art style.",
+      "description": "Create dreamy landscapes.",
+      "category": "imageEditing",
+      "level": "basic",
+      "platforms": ["all"]
+    },
+    {
+      "id": "gym_002",
+      "title": "20-Minute HIIT Cardio",
+      "content": "Design a 20-minute High-Intensity Interval Training (HIIT) workout for home use. No equipment needed. distinct intervals of work and rest.",
+      "description": "Quick intense burn.",
+      "category": "fitness",
+      "level": "basic",
+      "platforms": ["all"]
+    },
+    {
+      "id": "edu_002",
+      "title": "Blockchain for Beginners",
+      "content": "Explain the concept of Blockchain technology using the analogy of a public digital ledger. Cover decentralization and security blocks.",
+      "description": "Understand crypto tech.",
+      "category": "education",
+      "level": "basic",
+      "platforms": ["all"]
+    },
+    {
+      "id": "career_002",
+      "title": "Cover Letter Structure",
+      "content": "Provide a template for a modern cover letter. Include sections for a hooked opening, relevant experience highlight, company alignment, and call to action.",
+      "description": "Write better applications.",
+      "category": "career",
+      "level": "improved",
+      "platforms": ["chatGPT", "gemini"]
+    },
+    {
+      "id": "social_002",
+      "title": "LinkedIn AI Thought Leadership",
+      "content": "Draft a LinkedIn post discussing the impact of AI on creative jobs. Keep the tone professional yet optimistic. Include 3 relevant hashtags.",
+      "description": "Grow your network.",
+      "category": "socialMedia",
+      "level": "basic",
+      "platforms": ["all"]
+    }
+  ]
 }
