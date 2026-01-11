@@ -10,7 +10,7 @@
       "platforms": ["all"],
       "exampleOutput": "Image of a neon city",
       "imageUrl": "images/img_001.png",
-      "showImage": true
+      "showImage": false
     },
     {
       "id": "img_002",
