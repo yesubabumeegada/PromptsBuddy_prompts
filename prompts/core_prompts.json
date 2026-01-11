@@ -19,7 +19,7 @@
       "category": "fitness",
       "level": "basic",
       "platforms": ["chatGPT", "gemini"],
-      "imageUrl": "images/img002.png"
+      "imageUrl": "images/img_002.png"
     },
     {
       "id": "img_002_pro",
