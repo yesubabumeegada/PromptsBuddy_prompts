@@ -9,7 +9,8 @@
       "level": "basic",
       "platforms": ["all"],
       "exampleOutput": "Image of a neon city",
-      "imageUrl": "images/img_001.png"
+      "imageUrl": "images/img_001.png",
+      "showImage": false
     },
     {
       "id": "img_002",
@@ -19,7 +20,8 @@
       "category": "fitness",
       "level": "basic",
       "platforms": ["chatGPT", "gemini"],
-      "imageUrl": "images/img_002.png"
+      "imageUrl": "images/img_002.png",
+      "showImage": true
     },
     {
       "id": "img_002_pro",
@@ -29,7 +31,8 @@
       "category": "imageEditing",
       "level": "pro",
       "platforms": ["all"],
-      "imageUrl": "images/img_001.png"
+      "imageUrl": "images/img_001.png",
+      "showImage": true
     },
     {
       "id": "edu_001",
